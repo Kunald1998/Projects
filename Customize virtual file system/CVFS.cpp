@@ -7,7 +7,6 @@
 #include<iostream>
 #include<io.h>
 
-
 //---------Declearing all user defined MACRO---------------//
 
 #define MAXINODE 50 //we can make only 50 inode.
