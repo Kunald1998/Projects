@@ -1,5 +1,4 @@
-/*{This code or 'project' is just combination of all the problem statements
-from LB batch.}
+/*{This code or 'project' is just combination of all the problem statements.}
 
 Contains:-
 
